@@ -1,0 +1,7 @@
+* React Bootstrap Usage Notes *
+
+- pretty much Bootstrap
+- kinda ruins the whole react thing (just feels like a hack)
+- Still looks pretty nice, lots of themes to choose from
+- good documentation
+- 
